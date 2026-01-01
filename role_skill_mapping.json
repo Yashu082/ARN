@@ -1,0 +1,1326 @@
+{
+  "Software Engineer Intern": {
+    "core_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "JavaScript"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "Bash"
+    ],
+    "tools_frameworks": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "IntelliJ IDEA",
+      "Eclipse",
+      "Jira"
+    ],
+    "concepts": [
+      "Data Structures",
+      "Algorithms",
+      "Object-Oriented Programming",
+      "Debugging",
+      "Version Control",
+      "Big O Notation"
+    ],
+    "optional_skills": [
+      "Docker",
+      "React.js",
+      "Linux"
+    ]
+  },
+  "Backend Developer Intern": {
+    "core_skills": [
+      "Python",
+      "Java",
+      "Node.js"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "JSON",
+      "REST"
+    ],
+    "tools_frameworks": [
+      "Postman",
+      "Git",
+      "MySQL",
+      "Express.js",
+      "Flask",
+      "MongoDB"
+    ],
+    "concepts": [
+      "API Development",
+      "HTTP Protocol",
+      "Database Basics",
+      "Server-Side Logic",
+      "CRUD Operations"
+    ],
+    "optional_skills": [
+      "AWS Basics",
+      "Redis",
+      "Docker"
+    ]
+  },
+  "Frontend Developer Intern": {
+    "core_skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "supporting_skills": [
+      "TypeScript",
+      "SASS"
+    ],
+    "tools_frameworks": [
+      "React.js",
+      "Bootstrap",
+      "Git",
+      "Chrome DevTools",
+      "NPM",
+      "Figma"
+    ],
+    "concepts": [
+      "Responsive Design",
+      "DOM Manipulation",
+      "Flexbox",
+      "CSS Grid",
+      "Web Accessibility"
+    ],
+    "optional_skills": [
+      "Vue.js",
+      "Tailwind CSS",
+      "Next.js"
+    ]
+  },
+  "Data Science Intern": {
+    "core_skills": [
+      "Python",
+      "SQL"
+    ],
+    "supporting_skills": [
+      "R",
+      "Mathematics",
+      "Statistics"
+    ],
+    "tools_frameworks": [
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Jupyter Notebooks",
+      "Scikit-learn",
+      "Excel"
+    ],
+    "concepts": [
+      "Data Cleaning",
+      "Exploratory Data Analysis",
+      "Statistical Modeling",
+      "Data Visualization",
+      "Regression Analysis"
+    ],
+    "optional_skills": [
+      "TensorFlow",
+      "Tableau",
+      "BigQuery"
+    ]
+  },
+  "Machine Learning Intern": {
+    "core_skills": [
+      "Python",
+      "Mathematics"
+    ],
+    "supporting_skills": [
+      "C++",
+      "SQL"
+    ],
+    "tools_frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Scikit-learn",
+      "Pandas",
+      "OpenCV"
+    ],
+    "concepts": [
+      "Neural Networks",
+      "Supervised Learning",
+      "Model Training",
+      "Linear Algebra",
+      "Calculus"
+    ],
+    "optional_skills": [
+      "NLP",
+      "Computer Vision",
+      "AWS SageMaker"
+    ]
+  },
+  "AI Engineer Intern": {
+    "core_skills": [
+      "Python"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "APIs"
+    ],
+    "tools_frameworks": [
+      "OpenAI API",
+      "Hugging Face",
+      "LangChain",
+      "PyTorch",
+      "Streamlit"
+    ],
+    "concepts": [
+      "Large Language Models",
+      "Prompt Engineering",
+      "Generative AI",
+      "NLP Basics"
+    ],
+    "optional_skills": [
+      "Vector Databases",
+      "LlamaIndex",
+      "Docker"
+    ]
+  },
+  "DevOps Engineer Intern": {
+    "core_skills": [
+      "Linux",
+      "Bash",
+      "Python"
+    ],
+    "supporting_skills": [
+      "YAML",
+      "SQL"
+    ],
+    "tools_frameworks": [
+      "Docker",
+      "Git",
+      "Jenkins",
+      "GitHub Actions",
+      "AWS (Basic EC2/S3)"
+    ],
+    "concepts": [
+      "CI/CD Basics",
+      "Virtualization",
+      "Scripting",
+      "Cloud Basics",
+      "Networking"
+    ],
+    "optional_skills": [
+      "Kubernetes",
+      "Terraform",
+      "Ansible"
+    ]
+  },
+  "Cloud Engineer Intern": {
+    "core_skills": [
+      "Linux",
+      "Python"
+    ],
+    "supporting_skills": [
+      "Bash",
+      "Networking Protocols"
+    ],
+    "tools_frameworks": [
+      "AWS",
+      "Azure",
+      "Google Cloud Platform",
+      "Docker",
+      "Git"
+    ],
+    "concepts": [
+      "Cloud Computing Basics",
+      "Virtual Machines",
+      "Storage Services",
+      "IAM Basics"
+    ],
+    "optional_skills": [
+      "Terraform",
+      "Serverless",
+      "Kubernetes"
+    ]
+  },
+  "Data Analyst Intern": {
+    "core_skills": [
+      "Microsoft Excel",
+      "SQL"
+    ],
+    "supporting_skills": [
+      "Python",
+      "R"
+    ],
+    "tools_frameworks": [
+      "Power BI",
+      "Tableau",
+      "Google Sheets",
+      "Pandas"
+    ],
+    "concepts": [
+      "Data Visualization",
+      "Reporting",
+      "Pivot Tables",
+      "VLOOKUP",
+      "Data Cleaning"
+    ],
+    "optional_skills": [
+      "Google Analytics",
+      "VBA",
+      "SAS"
+    ]
+  },
+  "Python Developer Intern": {
+    "core_skills": [
+      "Python"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "tools_frameworks": [
+      "Django",
+      "Flask",
+      "Git",
+      "PyCharm",
+      "Virtualenv"
+    ],
+    "concepts": [
+      "OOP",
+      "Scripting",
+      "Data Structures",
+      "Debugging",
+      "File I/O"
+    ],
+    "optional_skills": [
+      "Pandas",
+      "Requests Library",
+      "FastAPI"
+    ]
+  },
+  "Java Developer Intern": {
+    "core_skills": [
+      "Java"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "XML"
+    ],
+    "tools_frameworks": [
+      "Eclipse",
+      "IntelliJ IDEA",
+      "Maven",
+      "Git",
+      "JDBC"
+    ],
+    "concepts": [
+      "OOP",
+      "Exception Handling",
+      "Collections Framework",
+      "Multithreading Basics",
+      "JVM Basics"
+    ],
+    "optional_skills": [
+      "Spring Boot",
+      "Hibernate",
+      "JUnit"
+    ]
+  },
+  "QA Tester Intern": {
+    "core_skills": [
+      "Java",
+      "Python"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "JavaScript"
+    ],
+    "tools_frameworks": [
+      "Selenium",
+      "Jira",
+      "Git",
+      "TestNG",
+      "Postman"
+    ],
+    "concepts": [
+      "Manual Testing",
+      "Test Cases",
+      "Bug Life Cycle",
+      "Regression Testing",
+      "Black Box Testing"
+    ],
+    "optional_skills": [
+      "Cypress",
+      "Appium",
+      "Jenkins"
+    ]
+  },
+  "Business Analyst Intern": {
+    "core_skills": [
+      "Microsoft Excel",
+      "SQL"
+    ],
+    "supporting_skills": [
+      "PowerPoint",
+      "Word"
+    ],
+    "tools_frameworks": [
+      "Tableau",
+      "Power BI",
+      "Visio",
+      "Jira",
+      "Confluence"
+    ],
+    "concepts": [
+      "Requirements Gathering",
+      "Process Modeling",
+      "SWOT Analysis",
+      "UML Diagrams",
+      "Stakeholder Management"
+    ],
+    "optional_skills": [
+      "Python",
+      "Agile Methodology",
+      "BPMN"
+    ]
+  },
+  "UX/UI Designer Intern": {
+    "core_skills": [
+      "Figma",
+      "Adobe XD"
+    ],
+    "supporting_skills": [
+      "HTML",
+      "CSS"
+    ],
+    "tools_frameworks": [
+      "Sketch",
+      "Photoshop",
+      "Illustrator",
+      "InVision",
+      "Miro"
+    ],
+    "concepts": [
+      "Wireframing",
+      "Prototyping",
+      "User Research",
+      "Information Architecture",
+      "Design Systems"
+    ],
+    "optional_skills": [
+      "JavaScript",
+      "Principle",
+      "After Effects"
+    ]
+  },
+  "Cybersecurity Intern": {
+    "core_skills": [
+      "Linux",
+      "Networking",
+      "Python"
+    ],
+    "supporting_skills": [
+      "Bash",
+      "Windows Server"
+    ],
+    "tools_frameworks": [
+      "Wireshark",
+      "Nmap",
+      "Metasploit",
+      "Burp Suite",
+      "Splunk"
+    ],
+    "concepts": [
+      "TCP/IP",
+      "OWASP Top 10",
+      "Encryption",
+      "Vulnerability Assessment",
+      "Firewalls"
+    ],
+    "optional_skills": [
+      "SIEM",
+      "Penetration Testing",
+      "ISO 27001"
+    ]
+  },
+  "Sales Intern": {
+    "core_skills": [
+      "Microsoft Office",
+      "Email Communication"
+    ],
+    "supporting_skills": [
+      "LinkedIn"
+    ],
+    "tools_frameworks": [
+      "Salesforce",
+      "HubSpot",
+      "ZoomInfo",
+      "Slack",
+      "Google Workspace"
+    ],
+    "concepts": [
+      "Lead Generation",
+      "Prospecting",
+      "Cold Outreach",
+      "CRM Management",
+      "Sales Funnel"
+    ],
+    "optional_skills": [
+      "Outreach.io",
+      "Public Speaking",
+      "Negotiation"
+    ]
+  },
+  "Marketing Intern": {
+    "core_skills": [
+      "Social Media Platforms",
+      "Copywriting"
+    ],
+    "supporting_skills": [
+      "Microsoft Office",
+      "HTML"
+    ],
+    "tools_frameworks": [
+      "Google Analytics",
+      "Canva",
+      "Hootsuite",
+      "Mailchimp",
+      "WordPress"
+    ],
+    "concepts": [
+      "SEO",
+      "Content Marketing",
+      "Brand Awareness",
+      "Market Research",
+      "Email Marketing"
+    ],
+    "optional_skills": [
+      "Adobe Creative Cloud",
+      "Google Ads",
+      "Video Editing"
+    ]
+  },
+  "HR Intern": {
+    "core_skills": [
+      "Microsoft Office",
+      "Data Entry"
+    ],
+    "supporting_skills": [
+      "LinkedIn"
+    ],
+    "tools_frameworks": [
+      "Workday",
+      "BambooHR",
+      "Greenhouse",
+      "Zoom",
+      "DocuSign"
+    ],
+    "concepts": [
+      "Recruitment Lifecycle",
+      "Onboarding",
+      "Employee Relations",
+      "Resume Screening",
+      "Compliance"
+    ],
+    "optional_skills": [
+      "Payroll Systems",
+      "Employment Law",
+      "Canva"
+    ]
+  },
+  "Finance Intern": {
+    "core_skills": [
+      "Microsoft Excel",
+      "Accounting Principles"
+    ],
+    "supporting_skills": [
+      "PowerPoint",
+      "Word"
+    ],
+    "tools_frameworks": [
+      "QuickBooks",
+      "SAP",
+      "NetSuite",
+      "Xero",
+      "Bloomberg Terminal"
+    ],
+    "concepts": [
+      "Financial Analysis",
+      "Bookkeeping",
+      "Budgeting",
+      "Financial Modeling",
+      "Reconciliation"
+    ],
+    "optional_skills": [
+      "VBA",
+      "SQL",
+      "Tableau"
+    ]
+  },
+  "Supply Chain Intern": {
+    "core_skills": [
+      "Microsoft Excel",
+      "Data Analysis"
+    ],
+    "supporting_skills": [
+      "SQL"
+    ],
+    "tools_frameworks": [
+      "SAP ERP",
+      "Oracle SCM",
+      "Tableau",
+      "Power BI"
+    ],
+    "concepts": [
+      "Inventory Management",
+      "Logistics",
+      "Procurement",
+      "Demand Planning",
+      "Lean Six Sigma"
+    ],
+    "optional_skills": [
+      "Python",
+      "Project Management",
+      "VBA"
+    ]
+  },
+  "Research Intern": {
+    "core_skills": [
+      "Python",
+      "Statistics"
+    ],
+    "supporting_skills": [
+      "R",
+      "MATLAB"
+    ],
+    "tools_frameworks": [
+      "LaTeX",
+      "SPSS",
+      "Excel",
+      "Jupyter Notebooks",
+      "Google Scholar"
+    ],
+    "concepts": [
+      "Literature Review",
+      "Hypothesis Testing",
+      "Data Collection",
+      "Quantitative Analysis",
+      "Technical Writing"
+    ],
+    "optional_skills": [
+      "Qualitative Analysis",
+      "Grant Writing",
+      "C++"
+    ]
+  },
+  "Graduate Software Engineer": {
+    "core_skills": [
+      "Java",
+      "Python",
+      "C++",
+      "JavaScript"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "Bash",
+      "Git"
+    ],
+    "tools_frameworks": [
+      "Spring Boot",
+      "React.js",
+      "Docker",
+      "Jira",
+      "GitHub"
+    ],
+    "concepts": [
+      "SDLC",
+      "Data Structures",
+      "Algorithms",
+      "Database Design",
+      "Agile Methodology"
+    ],
+    "optional_skills": [
+      "AWS",
+      "Kubernetes",
+      "Microservices"
+    ]
+  },
+  "Graduate Data Scientist": {
+    "core_skills": [
+      "Python",
+      "SQL"
+    ],
+    "supporting_skills": [
+      "R",
+      "Mathematics"
+    ],
+    "tools_frameworks": [
+      "Pandas",
+      "Scikit-learn",
+      "Jupyter",
+      "Matplotlib",
+      "Tableau"
+    ],
+    "concepts": [
+      "Machine Learning Algorithms",
+      "Statistical Analysis",
+      "Data Mining",
+      "Feature Engineering",
+      "Model Evaluation"
+    ],
+    "optional_skills": [
+      "Deep Learning",
+      "Spark",
+      "Cloud Platforms"
+    ]
+  },
+  "Graduate AI Engineer": {
+    "core_skills": [
+      "Python",
+      "Deep Learning"
+    ],
+    "supporting_skills": [
+      "C++",
+      "Calculus"
+    ],
+    "tools_frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Hugging Face",
+      "OpenCV"
+    ],
+    "concepts": [
+      "Neural Networks",
+      "NLP",
+      "Computer Vision",
+      "Generative Models",
+      "Reinforcement Learning"
+    ],
+    "optional_skills": [
+      "MLOps",
+      "Docker",
+      "LangChain"
+    ]
+  },
+  "Entry-Level Software Engineer": {
+    "core_skills": [
+      "Java",
+      "Python",
+      "JavaScript"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "HTML/CSS"
+    ],
+    "tools_frameworks": [
+      "Git",
+      "Spring Boot",
+      "Node.js",
+      "React.js",
+      "Docker",
+      "Jenkins"
+    ],
+    "concepts": [
+      "Object-Oriented Design",
+      "RESTful APIs",
+      "Unit Testing",
+      "CI/CD Awareness",
+      "Clean Code"
+    ],
+    "optional_skills": [
+      "Cloud Basics",
+      "GraphQL",
+      "TypeScript"
+    ]
+  },
+  "Entry-Level Data Analyst": {
+    "core_skills": [
+      "SQL",
+      "Microsoft Excel"
+    ],
+    "supporting_skills": [
+      "Python",
+      "Statistics"
+    ],
+    "tools_frameworks": [
+      "Tableau",
+      "Power BI",
+      "Pandas",
+      "Google Analytics",
+      "Looker"
+    ],
+    "concepts": [
+      "Data Visualization",
+      "Dashboarding",
+      "A/B Testing",
+      "Data Cleaning",
+      "Business Intelligence"
+    ],
+    "optional_skills": [
+      "R",
+      "BigQuery",
+      "Snowflake"
+    ]
+  },
+  "Entry-Level DevOps Engineer": {
+    "core_skills": [
+      "Linux",
+      "Bash",
+      "Python"
+    ],
+    "supporting_skills": [
+      "Groovy",
+      "YAML"
+    ],
+    "tools_frameworks": [
+      "Docker",
+      "Jenkins",
+      "Git",
+      "AWS",
+      "Ansible"
+    ],
+    "concepts": [
+      "CI/CD Pipelines",
+      "Infrastructure as Code",
+      "Configuration Management",
+      "Monitoring",
+      "Containerization"
+    ],
+    "optional_skills": [
+      "Kubernetes",
+      "Terraform",
+      "Prometheus"
+    ]
+  },
+  "Associate Software Engineer": {
+    "core_skills": [
+      "Java",
+      "C#",
+      "JavaScript",
+      "Python"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "TypeScript",
+      "Bash"
+    ],
+    "tools_frameworks": [
+      "Spring Boot",
+      ".NET Core",
+      "React.js",
+      "Angular",
+      "Git",
+      "Docker"
+    ],
+    "concepts": [
+      "Design Patterns",
+      "Microservices Basics",
+      "TDD",
+      "Agile/Scrum",
+      "Relational Databases"
+    ],
+    "optional_skills": [
+      "Kubernetes",
+      "Cloud Services",
+      "NoSQL"
+    ]
+  },
+  "Associate Data Scientist": {
+    "core_skills": [
+      "Python",
+      "SQL"
+    ],
+    "supporting_skills": [
+      "R",
+      "Shell Scripting"
+    ],
+    "tools_frameworks": [
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Pandas",
+      "Spark",
+      "Airflow"
+    ],
+    "concepts": [
+      "Predictive Modeling",
+      "Machine Learning Pipelines",
+      "Statistical Inference",
+      "Time Series Analysis",
+      "Model Deployment"
+    ],
+    "optional_skills": [
+      "Hadoop",
+      "AWS SageMaker",
+      "MLflow"
+    ]
+  },
+  "Software Engineer": {
+    "core_skills": [
+      "Java",
+      "Python",
+      "C++",
+      "JavaScript",
+      "C#"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "Bash",
+      "HTML5",
+      "CSS3"
+    ],
+    "tools_frameworks": [
+      "Git",
+      "Docker",
+      "Jira",
+      "Linux",
+      "GitHub",
+      "GitLab"
+    ],
+    "concepts": [
+      "Data Structures",
+      "Algorithms",
+      "Object-Oriented Programming",
+      "System Design",
+      "Design Patterns",
+      "Multithreading",
+      "SDLC"
+    ],
+    "optional_skills": [
+      "Kubernetes",
+      "Cloud Platforms",
+      "Microservices"
+    ]
+  },
+  "Backend Developer": {
+    "core_skills": [
+      "Java",
+      "Python",
+      "Node.js",
+      "Go",
+      "Ruby",
+      "PHP"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "NoSQL",
+      "Redis",
+      "Elasticsearch"
+    ],
+    "tools_frameworks": [
+      "Spring Boot",
+      "Django",
+      "Express.js",
+      "FastAPI",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "RabbitMQ",
+      "Kafka"
+    ],
+    "concepts": [
+      "RESTful APIs",
+      "Microservices Architecture",
+      "Database Design",
+      "API Security",
+      "Caching Strategies",
+      "Server-Side Rendering",
+      "GraphQL"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Kubernetes",
+      "gRPC",
+      "WebSockets"
+    ]
+  },
+  "Frontend Developer": {
+    "core_skills": [
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "supporting_skills": [
+      "SASS",
+      "LESS",
+      "JSON",
+      "XML"
+    ],
+    "tools_frameworks": [
+      "React.js",
+      "Angular",
+      "Vue.js",
+      "Next.js",
+      "Redux",
+      "Webpack",
+      "Babel",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Jest"
+    ],
+    "concepts": [
+      "Responsive Web Design",
+      "DOM Manipulation",
+      "State Management",
+      "Cross-Browser Compatibility",
+      "Web Accessibility",
+      "SEO Principles",
+      "Single Page Applications"
+    ],
+    "optional_skills": [
+      "GraphQL",
+      "WebAssembly",
+      "PWA",
+      "Figma"
+    ]
+  },
+  "Full Stack Developer": {
+    "core_skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "Node.js"
+    ],
+    "supporting_skills": [
+      "HTML5",
+      "CSS3",
+      "SQL",
+      "NoSQL"
+    ],
+    "tools_frameworks": [
+      "React.js",
+      "Express.js",
+      "Django",
+      "Spring Boot",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Nginx"
+    ],
+    "concepts": [
+      "MVC Architecture",
+      "RESTful APIs",
+      "Client-Server Architecture",
+      "Authentication/Authorization",
+      "CI/CD Pipelines",
+      "Database Normalization"
+    ],
+    "optional_skills": [
+      "GraphQL",
+      "Redis",
+      "Kubernetes",
+      "Terraform"
+    ]
+  },
+  "Data Scientist": {
+    "core_skills": [
+      "Python",
+      "R",
+      "SQL"
+    ],
+    "supporting_skills": [
+      "SAS",
+      "Scala",
+      "Julia",
+      "Bash"
+    ],
+    "tools_frameworks": [
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "Matplotlib",
+      "Seaborn",
+      "Jupyter Notebooks",
+      "SciPy",
+      "Tableau"
+    ],
+    "concepts": [
+      "Statistical Analysis",
+      "Probability Theory",
+      "Hypothesis Testing",
+      "Predictive Modeling",
+      "Exploratory Data Analysis",
+      "Feature Engineering",
+      "A/B Testing"
+    ],
+    "optional_skills": [
+      "Deep Learning",
+      "Natural Language Processing",
+      "Spark",
+      "Hadoop"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "core_skills": [
+      "Python",
+      "C++",
+      "SQL"
+    ],
+    "supporting_skills": [
+      "Java",
+      "Scala",
+      "Bash"
+    ],
+    "tools_frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Scikit-learn",
+      "XGBoost",
+      "OpenCV",
+      "MLflow",
+      "Kubeflow",
+      "Apache Spark"
+    ],
+    "concepts": [
+      "Neural Networks",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Model Training",
+      "Model Evaluation",
+      "MLOps"
+    ],
+    "optional_skills": [
+      "CUDA",
+      "Docker",
+      "Kubernetes",
+      "ONNX"
+    ]
+  },
+  "AI Engineer": {
+    "core_skills": [
+      "Python",
+      "TypeScript"
+    ],
+    "supporting_skills": [
+      "C++",
+      "SQL",
+      "Go"
+    ],
+    "tools_frameworks": [
+      "LangChain",
+      "Hugging Face Transformers",
+      "OpenAI API",
+      "LlamaIndex",
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "concepts": [
+      "Large Language Models",
+      "Generative AI",
+      "Natural Language Processing",
+      "Retrieval-Augmented Generation",
+      "Prompt Engineering",
+      "Vector Embeddings",
+      "Fine-tuning"
+    ],
+    "optional_skills": [
+      "Stable Diffusion",
+      "Speech Recognition",
+      "Computer Vision",
+      "Azure OpenAI"
+    ]
+  },
+  "DevOps Engineer": {
+    "core_skills": [
+      "Bash",
+      "Python",
+      "Go",
+      "Groovy"
+    ],
+    "supporting_skills": [
+      "Ruby",
+      "PowerShell",
+      "YAML"
+    ],
+    "tools_frameworks": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Terraform",
+      "Ansible",
+      "GitLab CI",
+      "Prometheus",
+      "Grafana",
+      "Helm",
+      "Nagios"
+    ],
+    "concepts": [
+      "CI/CD",
+      "Infrastructure as Code",
+      "Containerization",
+      "Orchestration",
+      "Configuration Management",
+      "Microservices",
+      "Site Reliability Engineering"
+    ],
+    "optional_skills": [
+      "Service Mesh",
+      "Istio",
+      "ArgoCD",
+      "Vault"
+    ]
+  },
+  "Cloud Engineer": {
+    "core_skills": [
+      "Python",
+      "Bash",
+      "HCL"
+    ],
+    "supporting_skills": [
+      "Go",
+      "JSON",
+      "YAML"
+    ],
+    "tools_frameworks": [
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud Platform",
+      "Terraform",
+      "CloudFormation",
+      "Docker",
+      "Kubernetes",
+      "Lambda",
+      "EC2",
+      "S3"
+    ],
+    "concepts": [
+      "Cloud Architecture",
+      "Serverless Computing",
+      "Virtual Private Cloud",
+      "Identity and Access Management",
+      "Load Balancing",
+      "Auto-scaling",
+      "Disaster Recovery"
+    ],
+    "optional_skills": [
+      "OpenStack",
+      "VMware",
+      "Hybrid Cloud",
+      "Cloud Security"
+    ]
+  },
+  "Data Analyst": {
+    "core_skills": [
+      "SQL",
+      "Microsoft Excel"
+    ],
+    "supporting_skills": [
+      "Python",
+      "R",
+      "VBA"
+    ],
+    "tools_frameworks": [
+      "Tableau",
+      "Power BI",
+      "Google Looker Studio",
+      "QlikView",
+      "Pandas",
+      "PostgreSQL",
+      "Snowflake",
+      "BigQuery"
+    ],
+    "concepts": [
+      "Data Visualization",
+      "Data Cleaning",
+      "ETL Processes",
+      "Descriptive Statistics",
+      "Database Management",
+      "Reporting",
+      "Business Intelligence"
+    ],
+    "optional_skills": [
+      "Google Analytics",
+      "dbt",
+      "Airflow",
+      "Salesforce"
+    ]
+  },
+  "Python Developer": {
+    "core_skills": [
+      "Python"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "Bash",
+      "JavaScript",
+      "HTML5"
+    ],
+    "tools_frameworks": [
+      "Django",
+      "Flask",
+      "FastAPI",
+      "PyTest",
+      "SQLAlchemy",
+      "Celery",
+      "NumPy",
+      "Pandas",
+      "Virtualenv",
+      "Poetry"
+    ],
+    "concepts": [
+      "Object-Oriented Programming",
+      "Decorators",
+      "Generators",
+      "Multithreading",
+      "AsyncIO",
+      "RESTful Services",
+      "TDD"
+    ],
+    "optional_skills": [
+      "GraphQL",
+      "AWS Lambda",
+      "Docker",
+      "Redis"
+    ]
+  },
+  "Java Developer": {
+    "core_skills": [
+      "Java"
+    ],
+    "supporting_skills": [
+      "SQL",
+      "XML",
+      "JSON",
+      "Shell Scripting"
+    ],
+    "tools_frameworks": [
+      "Spring Boot",
+      "Spring MVC",
+      "Hibernate",
+      "Maven",
+      "Gradle",
+      "JUnit",
+      "Mockito",
+      "Tomcat",
+      "Kafka",
+      "IntelliJ IDEA"
+    ],
+    "concepts": [
+      "JVM Internals",
+      "Garbage Collection",
+      "Multithreading",
+      "Concurrency",
+      "Dependency Injection",
+      "Microservices",
+      "Design Patterns"
+    ],
+    "optional_skills": [
+      "Kotlin",
+      "Scala",
+      "Docker",
+      "Kubernetes"
+    ]
+  }
+}
+
